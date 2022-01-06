@@ -1,2 +1,2 @@
 # mobile-point-server-site
-This is team project
+It's a team project
